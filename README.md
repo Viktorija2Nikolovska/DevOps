@@ -1,1 +1,1 @@
-# This is a sample project for the KIII (DevOps) course 
+This is a sample project for the KIII (DevOps) course 
